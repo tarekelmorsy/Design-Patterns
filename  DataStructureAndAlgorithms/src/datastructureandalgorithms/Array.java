@@ -15,11 +15,7 @@ public class Array {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
- 
-
-
-        int[] arry= new int[7];
+     int[] arry= new int[7];
         
         arry[0]= 10;
         arry[1]= 18;
@@ -41,5 +37,4 @@ public class Array {
         System.out.println(t);
 
     }
-    
 }
