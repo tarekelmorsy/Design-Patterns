@@ -28,7 +28,8 @@ public class Main {
         intTree.insert(17);
         intTree.traverseInOrder();
 
-        System.out.println();
+        System.out.println("");
+        System. err.println("-------------------------------");
         intTree.traversePreOrder();
     }
 }
